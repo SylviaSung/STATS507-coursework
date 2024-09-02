@@ -1,2 +1,3 @@
 # STATS507-coursework
-Stats 507 
+STATS 507 surveys the software tools that are currently popular among data scientists in academia and industry. The course begins with an accelerated introduction to programming in Python. Next, we focus on Python’s scientific computing stack: numpy, scipy, pandas, and scikit-learn. We also cover using git and some general debugging and profiling techniques. The final part of the course is an introduction to deep learning using PyTorch.
+The purpose of this repository is to organize and manage all assignments, projects, and related materials for Stats 507. The repository will be regularly updated with scripts, reports, and other resources used throughout the course. It serves as both a workspace for completing coursework and a portfolio to demonstrate the skills and knowledge acquired during the course.
